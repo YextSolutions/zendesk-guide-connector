@@ -45,6 +45,14 @@
       "subfieldPath": []
     }
   ],
+  "scheduleConfig": {
+     "customSchedule": {
+          "timeZone": "America/New_York",
+          "startDate": "2021-05-26",
+          "startTime": "03:00",
+          "frequencyType": "DAILY"
+     }
+  },  
   "source": {
     "baseSelector": {
       "header": "articles",
