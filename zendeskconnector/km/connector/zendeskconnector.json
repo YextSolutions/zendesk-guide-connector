@@ -44,7 +44,7 @@
       "header": "Vote Sum",
       "subfieldPath": []
     }
-  ], 
+  ],
   "source": {
     "baseSelector": {
       "header": "articles",
@@ -78,19 +78,19 @@
         "type": "JSON"
       }, 
       {
-      	"header": "Promoted",
-      	"path": "promoted",
-      	"type": "JSON"
+        "header": "Promoted",
+        "path": "promoted",
+        "type": "JSON"
       }, 
       {
-      	"header": "Vote Count",
-      	"path": "vote_count",
-      	"type": "JSON"
+        "header": "Vote Count",
+        "path": "vote_count",
+        "type": "JSON"
       }, 
       {
-      	"header": "Vote Sum",
-      	"path": "vote_sum",
-      	"type": "JSON"
+        "header": "Vote Sum",
+        "path": "vote_sum",
+        "type": "JSON"
       }
     ],
     "sourceConfig": {
@@ -98,9 +98,10 @@
         "dataFormat": "JSON",
         "headers": {},
         "paginationControl": {
-          "cursor": {
+          "cursorPagination": {
             "cursor": "next_page",
-            "isUrl": true
+            "cursorType": "FULL_URL",
+            "detectCursorInHeader": false
           }
         },
         "queryParams": {},
