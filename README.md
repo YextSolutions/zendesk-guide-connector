@@ -22,7 +22,7 @@ If you are not an existing customer, but interested in learning more, try out a 
 2. Navigate to the **Apps > Directory** tab in the platform (or use the link provided above)
 3. Search for the **Zendesk Help Center Connector** app and click **Install**
 4. Proceed through the installation flow to give Yext access to add the connector to your account
-5. Input your **Zendesk Subdomain** and click **Autohorize**
+5. Input your **Zendesk Subdomain** and click **Authorize**
 6. Click **Run Your Connector**
 
 Once the connector runs, you'll be able to see all your newly created Help Article entities in the Knowledge Graph!
