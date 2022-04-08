@@ -25,4 +25,4 @@ If you are not an existing customer, but interested in learning more, try out a 
 5. Input your **Zendesk Subdomain** and click **Autohorize**
 6. Click **Run Your Connector**
 
-Once the connector runs, you'll be able to see all your newly created Help Articl entities in the Knowledge Graph!
+Once the connector runs, you'll be able to see all your newly created Help Article entities in the Knowledge Graph!
