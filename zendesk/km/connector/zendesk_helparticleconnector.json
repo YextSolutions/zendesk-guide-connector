@@ -9,6 +9,7 @@
         "source": "zendesk",
         "operation": "fetchHelpArticles",
         "inputs": {
+          "zendeskLocale": "${{zendeskLocale}}",
           "zendeskSubdomain": "${{zendeskSubdomain}}"
         }
       }
